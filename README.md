@@ -153,11 +153,11 @@ The robot approached an obstacle at its maximum speed in 10 trials and stopped e
 
 ## 👥 Authors
 
-**Vu Van Hung** — Embedded Firmware & System Integration
+**Phan Van Lam** — Embedded Firmware & System Integration
 
 **Team Members**
 - Bui Xuan Sang
-- Phan Van Lam
+- Vu Van Hung
 - Vo Huu Hoang Anh
 - Tran Thai Duong
 
