@@ -170,6 +170,4 @@ The robot approached an obstacle at its maximum speed in 10 trials and stopped e
 **3rd Prize — University-Level Student Scientific Research Competition**
 Hanoi University of Industry (HaUI)
 
-<p align="center">
-  <img width="720" alt="IoT-Enabled Mobile Transport Robot" src="https://github.com/user-attachments/assets/492ff71c-307d-47a4-a345-696ab6d98818" />
-</p>
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d2608625-c6c9-4e70-833b-9a79b7361552" />
