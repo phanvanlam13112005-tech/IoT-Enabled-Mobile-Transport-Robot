@@ -170,4 +170,5 @@ The robot approached an obstacle at its maximum speed in 10 trials and stopped e
 **3rd Prize — University-Level Student Scientific Research Competition**
 Hanoi University of Industry (HaUI)
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d2608625-c6c9-4e70-833b-9a79b7361552" />
+<img width="2560" height="1920" alt="image" src="https://github.com/user-attachments/assets/dabacae3-e89a-451c-a53d-fcec630a7fd0" />
+
